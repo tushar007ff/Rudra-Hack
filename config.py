@@ -6,4 +6,4 @@ class Config:
     TOKEN = "6830418705:AAH8RBioB6djGeZxwaiyUIxDEx2V96ocpfk"
     MONGO_URL = "mongodb+srv://RUDRA_JAAT1:RUDRAJAAT@rudrajaat.zbir7lx.mongodb.net/?retryWrites=true&w=majority"
     START_PIC = "https://telegra.ph/file/34cf58490b86db4d4fba5.jpg"
-    SUDOERS = filters.user(["6134246701"])
+    SUDOERS = filters.user(["6783196044"])
